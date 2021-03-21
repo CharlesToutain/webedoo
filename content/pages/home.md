@@ -2,7 +2,7 @@
 template: HomePage
 slug: ""
 title: WebéDoo
-featuredImage: https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/
+featuredImage: https://ucarecdn.com/3da8ce8e-9ad1-4b91-a2ee-b614d0c2fd09/
 subtitle: "# Intégrateur Odoo spécialisé dans le E-Commerce."
 accordion: []
 meta:
