@@ -1,30 +1,27 @@
 ---
 template: HomePage
-slug: ''
-title: Yellowcake
-featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
-subtitle: ' Welcome to the ultimate Gatsby and Netlify starter project.'
+slug: ""
+title: WebéDoo
+featuredImage: https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/
+subtitle: "# Intégrateur Odoo spécialisé dans le E-Commerce."
+accordion: []
 meta:
-  description: This is a meta description.
-  title: The Ultimate Gatsby Starter
+  description: Intégrateur Odoo, spécialisé dans le E-Commerce nous proposons
+    l'intégration du progiciel Odoo communautaire et entreprise. Odoo est un
+    formidable outil de gestion proposant des solutions ECOMMERCE, ERP, CRM.
+    Nous proposons notre aide à l'installation et intégration de Odoo.
+  title: Intégrateur ODOO | Spécialiste ODOO | Intégrateur Odoo ECOMMERCE
 ---
+## Intégration du logiciel ERP/CRM/E-COMMERCE ODOO
 
-Yellowcake is an opinionated starter project created by [Thrive Digital](https://thriveweb.com.au/) a [Gold Coast Web Design](https://thriveweb.com.au/) studio. to help you create lightning fast websites with [Gatsby](https://gatsbyjs.org) and [Netlify CMS](https://netlifycms.org).
+Odoo est un formidable outil qui permet de gérer l'ensemble des flux de votre entreprise. 
 
-View the [project overview](https://thriveweb.com.au/the-lab/yellowcake-gatsby-react-js-starter-project/) and the [docs](https://github.com/thriveweb/yellowcake/blob/master/README.md).
+# Quelques fonctionnalités de Odoo
 
-# Features
-
-- **[Gatsby](https://gatsbyjs.org)** static site generator
-- **[Netlify CMS](https://github.com/netlify/netlify-cms)** for content management
-- Dynamic menus and forms
-- **[Mailchimp](http://mailchimp.com)** and **[Uploadcare](https://uploadcare.com)** integrations
-- Fully responsive layout for mobile and widescreen browsing
-- Blog searching and paging functionality
-- Seamless image and content sliders
-
-## Get started
-
-View the [Netlify CMS Docs](https://www.netlifycms.org/docs/) and the [Netlify CMS Repo](https://github.com/netlify/netlify-cms).
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/thriveweb/yellowcake&stack=cms)
+* ERP
+* CRM
+* ECOMMERCE
+* GED
+* COMPTABILITÉ
+* EMAIL MARKETING
+* MARKETING AUTOMATION
