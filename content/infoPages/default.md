@@ -1,44 +1,17 @@
 ---
 template: DefaultPage
-slug: default
-title: Default
+slug: a-propos
+title: Qui suis-je ?
 featuredImage: https://ucarecdn.com/7ec2ff8c-5ef7-4dd8-b551-baa44d114cc3/
 meta:
-  description: test meta description
-  title: test meta title
+  description: Intégrateur de la solution Odoo spécialisé dans le Ecommerce sur
+    odoo communautaire ou entreprise. Accompagnement sur la solution odoo
+    fonctionnel et technique. Réussir votre projet d'intégration Odoo avec
+    WebÉdoo.
+  title: Intégrateur Odoo | Freelance Odoo | Intégration Odoo spécialisé ECOMMERCE
 ---
+# Intégrateur Odoo Freelance spécialiste du E-commerce
 
-## This is the DefaultPage template
+Odoo est un formidable outil permettant de créer des sites E-commerce avec fonctionnalités ERP/CRM avancés.
 
-Paragraphs are separated by a blank line.
-
-The second paragraph. This is placeholder text that our web designers put here to make sure words appear properly on your website. _Italic_, **bold**, and `monospace`.
-
-### Unordered lists:
-
-- this one
-- that one
-- the other one
-
-### Ordered lists:
-
-1.  first item
-1.  second item
-1.  third item
-
-> Block quotes are written like so.
->
-> They can span multiple paragraphs,
-> if you like.
-
-# Heading 1
-
-## Heading 2
-
-### Heading 3
-
-#### Heading 4
-
-##### Heading 5
-
-###### Heading 6
+C'est un logiciel qui évolue chaque année et vous avez besoin d'un intégrateur Odoo pour vous aider à intégrer la solution dans votre entreprise.
